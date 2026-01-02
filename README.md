@@ -19,3 +19,4 @@ Deploy to Vercel (process): </br>
 1. Push your code to GitHub </br>
 2. Connect your repository to Vercel </br>
 3. Add environment variables in Vercel dashboard </br>
+4. Deploy </br>
