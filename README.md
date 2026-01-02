@@ -7,3 +7,4 @@ Reactjs library </br>
 
 
 **Installation**
+Clone the repository: 
