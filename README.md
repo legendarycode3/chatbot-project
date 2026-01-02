@@ -16,3 +16,4 @@ Reactjs library </br>
 
 **Deployment** </br>
 Deploy to Vercel (process) </br>
+1. Push your code to GitHub </br>
