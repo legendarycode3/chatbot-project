@@ -1,4 +1,5 @@
 ## GETTING STARTED
 
 **Prerequisites**
-Node.js 22+ and npm 
+Visual Studio Code IDE </br>
+Node.js 22+ and npm </br>
