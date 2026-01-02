@@ -9,3 +9,7 @@ Reactjs library </br>
 **Installation** </br>
 1. Clone the repository: </br>
 2. Install dependencies: ```npm install ``` </br>
+3. Run  </br>
+
+
+**Deployment** </br>
