@@ -10,8 +10,8 @@ Reactjs library </br>
 1. Clone the repository: </br>
 2. Install dependencies(using the IDE terminal): ```npm install ``` </br>
 3. Navigate to the project main folder / directory: ```cd chatbot-project ```</br>
-4. Check if you navigated correctly
-5. Run the code  ```npm install ```</br>
+4. Check if you navigated correctly:  ```pwd ```
+5. Run the code  ```npm run dev ```</br>
 
 
 **Deployment** </br>
