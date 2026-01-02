@@ -1,2 +1,3 @@
-**GETTING STARTED**
+## GETTING STARTED
 
+**Prerequisites**
