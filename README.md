@@ -6,5 +6,6 @@ Node.js 22+ and npm </br>
 Reactjs library </br>
 
 
-**Installation**
-Clone the repository: 
+**Installation** </br>
+1. Clone the repository: </br>
+2. Install dependencies: ```npm install ``` </br>
